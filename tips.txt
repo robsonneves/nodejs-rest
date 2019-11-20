@@ -1,0 +1,22 @@
+
+# criar projeto 
+npm init
+
+# rodar servidor
+npm install express
+
+# rodar projeto
+node nomeDoArquivo.js
+
+# adicionar comandos no start em package.json
+
+# criar rotas
+npm install consign
+
+# converter informações do body , para um body parse
+npm install body-parser
+
+# insalar mySql
+npm install mySql
+
+
